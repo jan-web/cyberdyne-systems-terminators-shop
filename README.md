@@ -1,1 +1,2 @@
-# cyberdyne-systems-terminators-shop
+# Cyberdyne Systems Terminators Shop
+demo project
